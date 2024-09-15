@@ -1,0 +1,9 @@
+#linea::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 1px; /* Grosor de la línea */
+    background-color: $bg1; /* Color de la línea */
+    margin-top: 10px; /* Margen opcional */
+    margin-bottom: 10px;
+}
