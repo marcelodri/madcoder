@@ -8,7 +8,7 @@
                 <div class="col-12 col-xl-6">
                     <div class="subtitle">
                         <p class="text-5 tx-color-2 fw-light" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="100" data-aos-offset="0">{{ $t('contact_subtitle') }}</p>
-                        <a class="tx-color-2" href="mailto:invox@madcoder.io"  data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="100" data-aos-offset="0">invox@madcoder.io</a>
+                        <a class="tx-color-2" href="mailto:inbox@madcoder.io"  data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="100" data-aos-offset="0">inbox@madcoder.io</a>
                     </div>
                 </div>
             </div>
